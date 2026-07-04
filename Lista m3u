@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" tvg-id="Canal1",RIT HD
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/960px-NTV_logo_2003.svg.png" tvg-id="Canal1",HTB HD
+https://river-6-604.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/ha7m_NNMMesAn_i4Utv5XQ/1783810345/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
