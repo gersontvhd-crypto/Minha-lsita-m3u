@@ -59,25 +59,6 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w759086550.m3u8
 #EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L00HcN_NVoIdCQsSQoGRKRQi6rxAxwVN28OXof2A5ktIiDTS5anEC_g&s" tvg-id="Canal1",Catve 2 HD
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-31 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6c/Logotipo_da_Univesp_TV.jpg" tvg-id="Univesp TV HD
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-32 tvg-logo="https://www.guiademidia.com.br/imagens/radios/pr/toledo/radio-uniao-toledo.png" tvg-id="União FM HD
-https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/playlist.m3u8
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/CBN_logo.svg" tvg-id="CBN Fox do Iguaçu HD
-https://5b33b873179a2.streamlock.net:1443/radiouniaofoz/livestream/playlist.m3u8
-#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Moldova_1_2025.svg" tvg-id="Moldova 1 HD
-https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
-#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/TV_Moldova_2_2025.svg" tvg-id="Moldova 2 HD
-https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/TV_Moldova_2_2025.svg" tvg-id="Radio Moldova Tineret HD
-https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
-#EXTINF:-37 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Radio_Moldova_logo_%282025%29.svg" tvg-id="Radio Moldova Muzical HD
-https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
-#EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Radio_Moldova_logo_%282025%29.svg" tvg-id="Radio Moldova Muzical HD
-https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
-#EXTINF:-40 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" tvg-id="Jovem Pan News HD
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-
 
 
 
