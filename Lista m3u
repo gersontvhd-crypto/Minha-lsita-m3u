@@ -41,36 +41,3 @@ https://river-3-330.rtbcdn.ru/stream/genetta-421.ntv.rutube.ru/aUuye3T7sr08sLqhz
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rutube_icon.svg" tvg-id="Canal1",RUTUBE TV HD
 https://river-6-606.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/lJp-DyUYqNxpy2rSRapxmQ/1783817529/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
-#EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" tvg-id="Canal1",Rede Brasil HD
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-23 tvg-logo="https://busuioctv.md/wp-content/uploads/2024/03/busuioc-Tv-01.png" tvg-id="Canal1",Busuioc TV HD
-https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/2.m3u8
-#EXTINF:-24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="Canal1",TV Cultura HD
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Cultura_FM_sp.jpg" tvg-id="Canal1",Rádio Cultura FM HD
-https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
-#EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/R%C3%A1dio_Cultura_Brasil_logo_2021.png" tvg-id="Canal1",Rádio Cultura Brasil HD
-https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
-#EXTINF:-27 tvg-logo="https://cultura.uol.com.br/upload/tvcultura/noticias/20240318184843_cultura-fast.jpg" tvg-id="Canal1",Cultura Fast HD
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-#EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" tvg-id="Canal1",TV Cultura Catve HD
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8oX_0CxHvC6UCWtizXdGgnx5MQBA9TvzCO_kHj5nHg&s" tvg-id="Canal1",Catve Fm HD
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w759086550.m3u8
-#EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L00HcN_NVoIdCQsSQoGRKRQi6rxAxwVN28OXof2A5ktIiDTS5anEC_g&s" tvg-id="Canal1",Catve 2 HD
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
