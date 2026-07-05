@@ -37,8 +37,8 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1942540150.m3u8
 https://stmv1.transmissaodigital.com/fmodia/fmodia/playlist.m3u8
 #EXTINF:-19 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Star_media_logo.svg/revision/latest?cb=20250311170458" tvg-id="Canal1",Star Media HD
 https://river-3-330.rtbcdn.ru/stream/genetta-421.ntv.rutube.ru/aUuye3T7sr08sLqhz4oeNA/1783816868/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
-#EXTINF:-20 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht34nWwF6lXOaa1p_Kca6nW3F6JCGF1LV276yM79013bxlEJV2lue3oq7MpwhsbrxbKzQA3mi6Fsga12N2AqkpzQFKgb3xwivGYjp_36iVRATCwQhZg7UTtwnQJfTTu77B6dcJn_yibSMI/s1600/logo_tv.jpg" tvg-id="Canal1",TV Assembleia do Piauí HD
-https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-20 tvg-logo="https://busuioctv.md/wp-content/uploads/2021/10/log.jpg" tvg-id="Canal1",Busuioc TV HD
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rutube_icon.svg" tvg-id="Canal1",RUTUBE TV HD
 https://river-6-606.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/lJp-DyUYqNxpy2rSRapxmQ/1783817529/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" tvg-id="Canal1",Rede Brasil HD
@@ -63,7 +63,7 @@ https://radiolive.trm.md/hls_comrat/comrat.m3u8
 https://river-6-606.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/ltM0jfLvGzcHN_hs6v96-g/1783880620/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" tvg-id="Canal1",Jovem Pan News HD
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo TEMPO HD
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo Tempo HD
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" tvg-id="Canal1",TVCI HD
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
