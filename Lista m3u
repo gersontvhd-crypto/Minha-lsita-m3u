@@ -3,3 +3,43 @@
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/960px-NTV_logo_2003.svg.png" tvg-id="Canal1",HTB HD
 https://river-6-604.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/ha7m_NNMMesAn_i4Utv5XQ/1783810345/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/31/Logo-rede-mais-familia.png" tvg-id="Canal1",Mais Familia HD
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w564857016.m3u8
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" tvg-id="Canal1",CIDADE VERDE HD
+https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w502096375.m3u8
+#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" tvg-id="Canal1",CIDADE VERDE 5.2
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w742033010.m3u8
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Ru_tv_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" tvg-id="Canal1",RU TV HD
+https://river-6-603.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/ueLbEdPb5eRA0nVCj2VD1Q/1783811263/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TV_Meio_Norte_2025_logo.jpg" tvg-id="Canal1",TV Meio Norte HD
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" tvg-id="Canal1",TV A Crítica HD
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+#EXTINF:-9 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Smile_TV_RU.png/revision/latest?cb=20241228205425" tvg-id="Canal1",Смайлик ТВ HD
+https://river-3-3103.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/-T_xdvi7Iam7mVUxibNbig/1783811919/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" tvg-id="Canal1",SBT News HD
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-11 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Armenia HD
+https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
+#EXTINF:-12 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg" tvg-id="Canal1",CNN Brasil HD
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783231200/ei/gJ5Jav_5Odm8obIPnMag8Qw/ip/149.102.234.193/id/dtJ7Q7knwkk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-bg0e6ney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/ARmQxEWDFwF_HiNeB3GrrT8_oJw-DiD64ScLESIhIf3zgsNFQUlFQphW6YGOtmvNxGjd6cT5vd-cziSG/spc/SQ-umnKTIQqqY7vyVvPZAXBkwGARft7JcEiFM0nN1p58iKCLBQ/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/3676250/met/1783209602,/mh/tD/mm/44/mn/sn-bg0e6ney/ms/lva/mv/m/mvi/2/pl/24/rmhost/rr1---sn-bg0e6ney.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1783209142/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAONNY18JNgnWYbimWoSRoxhwRKr4FastFvVdJM0hbK11AiB-YhP0VCDq996wo48ftyWdw2vLEh1N10qBOzKZbQus3Q%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIgT9rm2eHMAQi9mf7Z3OQIl4dl0ZwVkrDu5QJGCyzuQBECIQDGjwr9g0eNuPOwILPPhjupcivSKaAELq_dgZ9-ZBON7Q%3D%3D/playlist/index.m3u8
+#EXTINF:-13 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Россия HD
+https://songtv.hls.iptvdc.com/web-russia/lhigh/playlist.m3u8
+#EXTINF:-14 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Rede_Super_%282021%29.png" tvg-id="Canal1",Rede Super HD
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w406494454.m3u8
+#EXTINF:-15 tvg-logo="https://i.ytimg.com/vi/rNaSfKVIysU/maxresdefault.jpg" tvg-id="Canal1",RADIOKIDSFM HD
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-16 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/d8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_FM.png" tvg-id="Canal1",Страна FM HD
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-17 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" tvg-id="Canal1",O DIA TV HD
+https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1942540150.m3u8
+#EXTINF:-18 tvg-logo="https://img.radios.com.br/radio/lg/radio71155_1775065676.jpg" tvg-id="Canal1",92,7 FM O DIA HD
+https://stmv1.transmissaodigital.com/fmodia/fmodia/playlist.m3u8
+#EXTINF:-19 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Star_media_logo.svg/revision/latest?cb=20250311170458" tvg-id="Canal1",Star Media HD
+https://river-3-330.rtbcdn.ru/stream/genetta-421.ntv.rutube.ru/aUuye3T7sr08sLqhz4oeNA/1783816868/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
+#EXTINF:-20 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht34nWwF6lXOaa1p_Kca6nW3F6JCGF1LV276yM79013bxlEJV2lue3oq7MpwhsbrxbKzQA3mi6Fsga12N2AqkpzQFKgb3xwivGYjp_36iVRATCwQhZg7UTtwnQJfTTu77B6dcJn_yibSMI/s1600/logo_tv.jpg" tvg-id="Canal1",TV Assembleia do Piauí HD
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rutube_icon.svg" tvg-id="Canal1",RUTUBE TV HD
+https://river-6-606.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/lJp-DyUYqNxpy2rSRapxmQ/1783817529/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+
+
