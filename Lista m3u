@@ -75,3 +75,15 @@ https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist_b3096
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" tvg-id="Canal1",Rede Família HD
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1865004483.m3u8
+#EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TVR_1_Logo_2022.svg" tvg-id="Canal1",TVR 1 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-40 tvg-logo="https://static-media.streema.com/media/cache/c0/02/c00263764e8ceb83e7e7dc6805a1658c.jpg" tvg-id="Canal1",Gospel FM HD
+https://virtues.live:1936/gospel90/gospel90/playlist.m3u8
+#EXTINF:-41 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-2-logo-png_seeklogo-496453.png" tvg-id="Canal1",TVR 2 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b3628000.m3u8
+#EXTINF:-42 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TVR_3_Logo_2022.svg" tvg-id="Canal1",TVR 3 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b2096000.m3u8
+#EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" tvg-id="Canal1",TV Feliz HD
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w923438715.m3u8
+#EXTINF:-44 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-info-logo-png_seeklogo-496458.png" tvg-id="Canal1",TVR Info HD
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
