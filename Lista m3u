@@ -67,3 +67,12 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" tvg-id="Canal1",TVCI HD
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Rede_S%C3%A9culo_21.jpg" tvg-id="Canal1",RS21 HD
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
+#EXTINF:-36 tvg-logo="https://moldova.mom-gmr.org/downloads/Archive/2024/CompanyLogos/MDA/4280.png" tvg-id="Canal1",TVR Moldova HD
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist_b3096000.m3u8
+#EXTINF:-37 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" tvg-id="Canal1",Rádio Clube Fm 105,5 HD
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" tvg-id="Canal1",Rede Família HD
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w1865004483.m3u8
+
