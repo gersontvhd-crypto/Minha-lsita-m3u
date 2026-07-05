@@ -21,8 +21,8 @@ https://river-3-3103.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/-T_xdvi7Iam7mVUxi
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-11 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Armenia HD
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
-#EXTINF:-12 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg" tvg-id="Canal1",CNN Brasil HD
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783231200/ei/gJ5Jav_5Odm8obIPnMag8Qw/ip/149.102.234.193/id/dtJ7Q7knwkk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-bg0e6ney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/ARmQxEWDFwF_HiNeB3GrrT8_oJw-DiD64ScLESIhIf3zgsNFQUlFQphW6YGOtmvNxGjd6cT5vd-cziSG/spc/SQ-umnKTIQqqY7vyVvPZAXBkwGARft7JcEiFM0nN1p58iKCLBQ/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/3676250/met/1783209602,/mh/tD/mm/44/mn/sn-bg0e6ney/ms/lva/mv/m/mvi/2/pl/24/rmhost/rr1---sn-bg0e6ney.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1783209142/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAONNY18JNgnWYbimWoSRoxhwRKr4FastFvVdJM0hbK11AiB-YhP0VCDq996wo48ftyWdw2vLEh1N10qBOzKZbQus3Q%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIgT9rm2eHMAQi9mf7Z3OQIl4dl0ZwVkrDu5QJGCyzuQBECIQDGjwr9g0eNuPOwILPPhjupcivSKaAELq_dgZ9-ZBON7Q%3D%3D/playlist/index.m3u8
+#EXTINF:-12 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" tvg-id="Canal1",CNN Brasil HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-13 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Россия HD
 https://songtv.hls.iptvdc.com/web-russia/lhigh/playlist.m3u8
 #EXTINF:-14 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Rede_Super_%282021%29.png" tvg-id="Canal1",Rede Super HD
@@ -51,8 +51,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
 #EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" tvg-id="Canal1",TV Munidal HD
 https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1661561836_b2691072.m3u8
-#EXTINF:-27 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" tvg-id="Canal1",TV Band SP HD
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/a577b696-fae4-41f8-adac-d667e2874a8b:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/5160000.m3u8
+#EXTINF:-27 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/52877942_2049257495122303_3488304985349816320_o.png/revision/latest?cb=20250806195952" tvg-id="Canal1",TV Brasil Central HD
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
 #EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Radio_Moldova_Tineret_2025.png" tvg-id="Canal1",Radio Moldova Tineret HD
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-29 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Radio_Moldova_Muzical_Logo_2025.svg" tvg-id="Canal1",Radio Moldova Muzical HD
@@ -65,3 +65,5 @@ https://river-6-606.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/ltM0jfLvGzcHN_hs6v
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo TEMPO HD
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" tvg-id="Canal1",TVCI HD
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
