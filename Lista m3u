@@ -25,7 +25,7 @@ https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-13 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Россия HD
 https://songtv.hls.iptvdc.com/web-russia/lhigh/playlist.m3u8
-#EXTINF:-14 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Rede_Super_%282021%29.png" tvg-id="Canal1",Rede Super HD
+#EXTINF:-14 tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-super-canal-23_m.png" tvg-id="Canal1",Rede Super HD
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w406494454.m3u8
 #EXTINF:-15 tvg-logo="https://i.ytimg.com/vi/rNaSfKVIysU/maxresdefault.jpg" tvg-id="Canal1",RADIOKIDSFM HD
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
@@ -99,17 +99,11 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" tvg-id="Canal1",Play TV HD
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/tracks-v1a1/mono.m3u8
-#EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" tvg-id="Canal1",SBT Interior
+#EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" tvg-id="Canal1",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-52 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" tvg-id="Canal1",CazéTV HD
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-53 tvg-logo="https://images.seeklogo.com/logo-png/25/1/gazeta-logo-png_seeklogo-253026.png" tvg-id="Canal1",TV Gazeta HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Hm4ma12n5jEsBoSsbEV2f0imohTdryAKBtEmoIZc9GPGpxnpmyphUlS2a0YFmucE4VI09c8FUGUccjkt6-Nw32E1sTx-WSxH8oPpVPWp2rLqFynXRllw5AUfZGKEMB8M)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-53 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg" tvg-id="Canal1",Record News HD
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-54 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" tvg-id="Canal1",Gospel Cartoon HD
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-55 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" tvg-id="Canal1",CNT HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(hT3xnQqCf9ogT8d8X6Ej3yHNaPcCD-nxjD0d4IzrRWRYCR3KoYwgLUFHVPV9Pm6Aybm1fisae_Pdu0l3VTY0zRxPSB1g2TD7ZZkB4xDMuSXgtOuGYiOlLOay1ArOU_Vb)/cloud/3/x9zdz6o/d/live-480.m3u8?startdate=2026-06-15T16%3A41%3A10%2B0000#cell=lcf2-eu-north-1a
-#EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" tvg-id="Canal1",GCNT Multi HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(aJHpRn5q6LE-ItphA_z_GMFKEIgltN6UvtL47DhGyangXnd0HnTnM6aI2dv_lPneRaopw1dIRto5McKW6G38r1weBsEkRUaqREybI9gnGLb-C7B-ak3QvvFwcldrlgYi)/cloud/3/x9yjqle/d/live-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000#cell=lcf2-eu-north-1a
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Alpha_FM.png" tvg-id="Canal1",Alpha FM SP HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(rH75boas9MRE9ztIFndoXpiyLqGxmFhwKOL7DFBh0beocDlrlK4s6kyTJrybUnLQKpSyi0-kqvSXX1vA3dm1-6obdhHnuD3ye86Cl2ogUo1DqKFdeHChCsn0XgUcZJFT)/cloud/3/x82yivf/s/live-480.m3u8#cell=lcf2-eu-north-1b
