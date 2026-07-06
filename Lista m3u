@@ -87,3 +87,19 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w923438715.m3u8
 #EXTINF:-44 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-info-logo-png_seeklogo-496458.png" tvg-id="Canal1",TVR Info HD
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-45 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" tvg-id="Canal1",Rede Gospel HD
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_da_Rede_NGT_-_2021.png" tvg-id="Canal1",NGT HD
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-47 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GNOME_Video_icon_2019.svg/960px-GNOME_Video_icon_2019.svg.png" tvg-id="Canal1",Kids Mais HD
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/chunklist_w1366112581.m3u8
+#EXTINF:-48 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" tvg-id="Canal1",Record TV HD
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-49 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" tvg-id="Canal1",Record TV 2 HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GNOME_Video_icon_2019.svg/960px-GNOME_Video_icon_2019.svg.png
+" tvg-id="Canal1",Séries Classic HD
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" tvg-id="Canal1",Play TV HD
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/tracks-v1a1/mono.m3u8
+
