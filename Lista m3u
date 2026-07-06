@@ -103,3 +103,5 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/tracks-v1a1/mono
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-52 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" tvg-id="Canal1",CazéTV HD
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-53 tvg-logo="https://images.seeklogo.com/logo-png/25/1/gazeta-logo-png_seeklogo-253026.png" tvg-id="Canal1",TV Gazeta HD
+https://live.eu-north-1b.cf.dmcdn.net/sec2(Hm4ma12n5jEsBoSsbEV2f0imohTdryAKBtEmoIZc9GPGpxnpmyphUlS2a0YFmucE4VI09c8FUGUccjkt6-Nw32E1sTx-WSxH8oPpVPWp2rLqFynXRllw5AUfZGKEMB8M)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcf-eu-north-1b
