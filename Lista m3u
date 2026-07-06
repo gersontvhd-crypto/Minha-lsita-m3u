@@ -107,3 +107,5 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-54 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" tvg-id="Canal1",Gospel Cartoon HD
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-54 tvg-logo="https://3abn.org/image/home/3ABN_name_WHITE-logo.png" tvg-id="Canal1",3ABN Kids Network  HD
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w599106299_b1928000_slen.m3u8?nimblesessionid=744032328
