@@ -105,3 +105,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-53 tvg-logo="https://images.seeklogo.com/logo-png/25/1/gazeta-logo-png_seeklogo-253026.png" tvg-id="Canal1",TV Gazeta HD
 https://live.eu-north-1b.cf.dmcdn.net/sec2(Hm4ma12n5jEsBoSsbEV2f0imohTdryAKBtEmoIZc9GPGpxnpmyphUlS2a0YFmucE4VI09c8FUGUccjkt6-Nw32E1sTx-WSxH8oPpVPWp2rLqFynXRllw5AUfZGKEMB8M)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-54 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0a3c3c7b9a651e847d86dd71bbb5551.webp" tvg-id="Canal1",Gospel Cartoon HD
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-55 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" tvg-id="Canal1",CNT HD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hT3xnQqCf9ogT8d8X6Ej3yHNaPcCD-nxjD0d4IzrRWRYCR3KoYwgLUFHVPV9Pm6Aybm1fisae_Pdu0l3VTY0zRxPSB1g2TD7ZZkB4xDMuSXgtOuGYiOlLOay1ArOU_Vb)/cloud/3/x9zdz6o/d/live-480.m3u8?startdate=2026-06-15T16%3A41%3A10%2B0000#cell=lcf2-eu-north-1a
+#EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" tvg-id="Canal1",GCNT Multi HD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(aJHpRn5q6LE-ItphA_z_GMFKEIgltN6UvtL47DhGyangXnd0HnTnM6aI2dv_lPneRaopw1dIRto5McKW6G38r1weBsEkRUaqREybI9gnGLb-C7B-ak3QvvFwcldrlgYi)/cloud/3/x9yjqle/d/live-480.m3u8?startdate=2026-06-15T16%3A41%3A11%2B0000#cell=lcf2-eu-north-1a
