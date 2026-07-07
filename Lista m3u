@@ -119,5 +119,5 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 https://pop.uniquetv.com.br/tvsjk/tracks-v1/index.fmp4.m3u8
 #EXTINF:-60 tvg-logo="https://media.gazetadopovo.com.br/2019/05/14130748/tv-parana-turismo-952x540.jpg" tvg-id="Canal1",TV Paraná Turismo HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-61 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-id="Canal1",Canção Nova HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783380628/ei/NOZLavjeJ9D21sQPk7vY6Ag/ip/149.102.234.95/id/vV1_X3SsxFY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828969/txs/51828969%2C51828970%2C51828971/hfr/1/bui/ARmQxEXBVGtowrAAzyIxfgofQDtF2uZVwF3NJqoPKbAeCpokTu9kDQKhcY0ZeTiNFuAGl4ifeqdRMY2s/spc/SQ-umv9n2ESc6adZhQutUuFVOA3fD_NrisEYhJ22Lh7tl4Hw4w/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017146/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAP5dGnr9VtCk3O6v9nlt-B-KktnaJG3HQvlW3yl9Mw2DAiEApW7puLI9KSnYtjg__d912_csUTiTLRZtdccVueBKR6o%3D/file/index.m3u8
+#EXTINF:-61 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-id="Canal1",RadioU TV HD
+https://1840571692.rsc.cdn77.org/1840571692/index.m3u8
