@@ -133,5 +133,5 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-67 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Rossiya-1_Logo.svg" tvg-id="Canal1",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-68 tvg-logo="https://pic.rtbcdn.ru/user/2025-02-24/92/f4/92f4d552d5bba89a37690873515d4211.jpg" tvg-id="Canal1",Культура HD
+#EXTINF:-68 tvg-logo="https://pic.rtbcdn.ru/user/2025-02-24/92/f4/92f4d552d5bba89a37690873515d4211.jpg" tvg-id="Canal1",Россия Культура HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
