@@ -115,8 +115,8 @@ https://cpbr.appflux.com.br:2000/hls/maranatalive1/720p.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" tvg-id="Canal1",REDEVIDA HD
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-59 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Deepin_Icon_Theme_%E2%80%93_video-x-generic.svg" tvg-id="Canal1",TV SJK HD
-https://pop.uniquetv.com.br/tvsjk/tracks-v1/index.fmp4.m3u8
+#EXTINF:-59 tvg-logo="https://en.wikipedia.org/wiki/File:%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2021.svg" tvg-id="Canal1",МУЗ-ТВ HD
+https://river-6-604.rtbcdn.ru/stream/genetta-405.ntv.rutube.ru/9ovlqP1Utp309ToYTntMZA/1784027534/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-60 tvg-logo="https://media.gazetadopovo.com.br/2019/05/14130748/tv-parana-turismo-952x540.jpg" tvg-id="Canal1",TV Paraná Turismo HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-61 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" tvg-id="Canal1",RadioU TV HD
