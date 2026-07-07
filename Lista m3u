@@ -121,3 +121,15 @@ https://river-6-604.rtbcdn.ru/stream/genetta-405.ntv.rutube.ru/9ovlqP1Utp309ToYT
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-61 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" tvg-id="Canal1",RadioU TV HD
 https://1840571692.rsc.cdn77.org/1840571692/index.m3u8
+#EXTINF:-62 tvg-logo="https://federal.tv/i/tnt.png?v=01112021111" tvg-id="Canal1",THT HD
+https://river-6-605.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/GGLDpLidJWX766rKELyM0A/1784027465/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-63 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b87587ffa5b74f489ceef82353ebddf0.webp" tvg-id="Canal1",RBA TV HD
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1402572254.m3u8
+#EXTINF:-64 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Rede_Bandeirantes_logo_2011.svg" tvg-id="Canal1",Band HD
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+#EXTINF:-65 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" tvg-id="Canal1",SBT HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
+#EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Karusel_2019.svg" tvg-id="Canal1",Карусель HD
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-67 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Rossiya-1_Logo.svg" tvg-id="Canal1",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
