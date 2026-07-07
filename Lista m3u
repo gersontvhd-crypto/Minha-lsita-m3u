@@ -112,7 +112,7 @@ https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-56 tvg-logo="https://static-media.streema.com/media/cache/da/8c/da8c5360361d8f9ba64fd42f2b3d3778.jpg" tvg-id="Canal1",TV Maanaim HD
 https://cpbr.appflux.com.br:2000/hls/maranatalive1/720p.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/LOGO_TOP_TV_HD.png" tvg-id="Canal1",Top TV HD
-https://isaocorp.cloudecast.com/toptv/tracks-v1/index.fmp4.m3u8
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" tvg-id="Canal1",REDEVIDA HD
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:-59 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Deepin_Icon_Theme_%E2%80%93_video-x-generic.svg" tvg-id="Canal1",TV SJK HD
