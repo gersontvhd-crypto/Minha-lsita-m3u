@@ -147,3 +147,5 @@ https://streaming.procergs.com.br:8443/tve/stve/chunklist_w655535124.m3u8
 https://8477.brasilstream.com.br/stream
 #EXTINF:-74 tvg-id="3ABNKids" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png",3ABN Kids Network HD
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-75 tvg-id="3ABNKids" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png",Feliz FM
+https://streaming.fox.srv.br:8140/stream
