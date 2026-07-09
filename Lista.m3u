@@ -151,7 +151,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://streaming.fox.srv.br:8140/stream
 #EXTINF:-76 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIkgYvezqEyfeb0KbziWmUGrXxXLQgJdRZs8w7NZI9cA&s=10" tvg-id="Canal1",Радио Маяк HD
 https://podcast.smotrim.ru/radio/hls/RadioMayak/video.m3u8
-#EXTINF:-77 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgs2Lw1PuS3FH-p1UItC4erEaFiq6QWCb_ioK6xS9q9A&s=10" tvg-id="Canal1",TV Templo
+#EXTINF:-77 tvg-id="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" tvg-id="Canal1",TV Templo
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-79 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png" tvg-id="Canal1",Telemundo HD
 https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
