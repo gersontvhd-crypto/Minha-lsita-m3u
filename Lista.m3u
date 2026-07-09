@@ -149,3 +149,5 @@ https://8477.brasilstream.com.br/stream
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-75 tvg-id="3ABNKids" tvg-logo="https://img.radios.com.br/radio/lg/radio14805_1439401465.jpg" tvg-id="Canal1",Feliz FM
 https://streaming.fox.srv.br:8140/stream
+#EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" tvg-id="Canal1",TV Templo HD
+https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
