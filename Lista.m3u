@@ -149,3 +149,10 @@ https://8477.brasilstream.com.br/stream
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-75 tvg-id="3ABNKids" tvg-logo="https://img.radios.com.br/radio/lg/radio14805_1439401465.jpg",Feliz FM
 https://streaming.fox.srv.br:8140/stream
+#EXTINF:-76 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/500px-Radio_Mayak_logo.svg.png",Радио Маяк HD
+https://podcast.smotrim.ru/radio/hls/RadioMayak/video.m3u8
+#EXTINF:-77 tvg-id="https://upload.wikimedia.org/wikipedia/pt/c/c6/Logo-tv-templo.jpg",TV Templo
+https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-79 tvg-id="https://upload.wikimedia.org/wikipedia/commons/b/b0/Telemundo_logo_2012.svg",Telemundo HD
+https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
+
