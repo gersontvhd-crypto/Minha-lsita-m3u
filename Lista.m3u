@@ -145,14 +145,14 @@ https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/pla
 https://streaming.procergs.com.br:8443/tve/stve/chunklist_w655535124.m3u8
 #EXTINF:-73 tvg-logo="https://img.radios.com.br/radio/lg/radio255847_1757077264.jpeg" tvg-id="Canal1",Nossa Rádio Teresina HD
 https://8477.brasilstream.com.br/stream
-#EXTINF:-74 tvg-id="3ABNKids" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png",3ABN Kids Network HD
+#EXTINF:-74 tvg-id="3ABNKids" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Kids Network HD
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-75 tvg-id="3ABNKids" tvg-logo="https://img.radios.com.br/radio/lg/radio14805_1439401465.jpg",Feliz FM
+#EXTINF:-75 tvg-id="3ABNKids" tvg-logo="https://img.radios.com.br/radio/lg/radio14805_1439401465.jpg" tvg-id="Canal1",Feliz FM
 https://streaming.fox.srv.br:8140/stream
-#EXTINF:-76 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/500px-Radio_Mayak_logo.svg.png",Радио Маяк HD
+#EXTINF:-76 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIkgYvezqEyfeb0KbziWmUGrXxXLQgJdRZs8w7NZI9cA&s=10" tvg-id="Canal1",Радио Маяк HD
 https://podcast.smotrim.ru/radio/hls/RadioMayak/video.m3u8
-#EXTINF:-77 tvg-id="https://upload.wikimedia.org/wikipedia/pt/c/c6/Logo-tv-templo.jpg",TV Templo
+#EXTINF:-77 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgs2Lw1PuS3FH-p1UItC4erEaFiq6QWCb_ioK6xS9q9A&s=10" tvg-id="Canal1",TV Templo
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
-#EXTINF:-79 tvg-id="https://upload.wikimedia.org/wikipedia/commons/b/b0/Telemundo_logo_2012.svg",Telemundo HD
+#EXTINF:-79 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png" tvg-id="Canal1",Telemundo HD
 https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
 
