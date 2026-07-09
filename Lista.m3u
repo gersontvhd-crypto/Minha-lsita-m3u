@@ -169,4 +169,7 @@ https://cpbr.appflux.com.br:2000/hls/1001noiteslive/720p.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
 #EXTINF:-85 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKJhEZWgELWrZExQpXeg5CDYoJaKhNmm0g1pT-JGXyg&s=10" tvg-id="Canal1",Telemundo HD
 https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
-
+#EXTINF:-86 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Rádio Novo Tempo
+https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
+#EXTINF:-87 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZo9KZZWD8i4px86yJzYwp7_tq9f2KwCYnF3qEGd-jcA&s" tvg-id="Canal1",Fonte FM
+https://centova2.svdns.com.br:20082/stream
