@@ -151,3 +151,22 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://streaming.fox.srv.br:8140/stream
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" tvg-id="Canal1",TV Templo HD
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45ADz9dtxrZ3lMOTJX3yWUje_NFsKkXEy4nlkV44NPg&s=10" tvg-id="Canal1",Беларусь 1 HD
+https://salam-spbsed-ttk-d98.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/YRmyIh4xHKHDeE-51vluaQ/stream/genetta-405.ntv.rutube.ru/FkG-ep3kabfVqlmfeDmMGg/1784164739/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
+#EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Moonbug Kids TV HD
+https://salam-spbsed-rtk-d109.rtbcdn.ru/dive/river-3-343.rtbcdn.ru/Qx9LFjabBYgBaOD4H-fbUA/stream/genetta-402.ntv.rutube.ru/O-1N1Tq7Ca1uthRLJF2pkg/1784235338/2b06a5c4c688fdc05014acb4cba83de0/1080p_stream.m3u8
+#EXTINF:-79 tvg-logo="https://img.radios.com.br/radio/lg/radio8985_1697638079.png" tvg-id="Canal1",Rede Aleluia 99.5 FM
+https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
+#EXTINF:-80 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNRDrjRDKEJdaypnmg-uVj5CwXqGj1zCFtv36pp669w&s=10" tvg-id="Canal1",МАТЧ ТВ HD
+https://salam-spbsed-dix-d15.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/fNd5Ys5CaVEO3Z_WXfvPkA/stream/genetta-414.ntv.rutube.ru/z2_u7GpT5Dqh4IqXr2_BCg/1784164901/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwYPQv6Q4mzrOJNDXSR3--ckn1llSYQxdVLiAUgs5sw&s=10" tvg-id="Canal1",Беларусь 2 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/playlist.m3u8
+#EXTINF:-82 tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Music Network HD
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-83 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgulg0KHfzpg10HqTh7o8PU-gJXhtvmRqH8b-T4PDmQ&s" tvg-id="Canal1",1001 Noites Joias HD
+https://cpbr.appflux.com.br:2000/hls/1001noiteslive/720p.m3u8
+#EXTINF:-84 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx22BDSbyGT-FosEd242xOR4UQqHsXbvAdydGxR0DLA&s=10" tvg-id="Canal1",Беларусь 3 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
+#EXTINF:-85 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKJhEZWgELWrZExQpXeg5CDYoJaKhNmm0g1pT-JGXyg&s=10" tvg-id="Canal1",Telemundo HD
+https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
+
