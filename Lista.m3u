@@ -189,3 +189,5 @@ https://live-tbn-ssai.simplestreamcdn.com/v1/manifest/774d979dd66704abea7c5b62cb
 https://pcr.streamguys1.com/ppraise-96k.aac
 #EXTINF:-95 tvg-logo="https://img.radios.com.br/radio/lg/radio14828_1731346643.jpg" tvg-id="Canal1",Rádio Vinha 91.9 FM
 http://streaming.vinhafm.com.br/stream
+#EXTINF:-96 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/66b42cdbb718185d12002a6cc834314b.webp" tvg-id="Canal1",Igreja Plenitude HD
+https://strv.painelvox.top/plenitude/plenitude/chunklist_w862956763.m3u8
