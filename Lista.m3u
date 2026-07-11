@@ -152,7 +152,7 @@ https://streaming.fox.srv.br:8140/stream
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" tvg-id="Canal1",TV Templo HD
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45ADz9dtxrZ3lMOTJX3yWUje_NFsKkXEy4nlkV44NPg&s=10" tvg-id="Canal1",Беларусь 1 HD
-river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/fvD8gt3OU_Co3sycb5UTCg/1784290082/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/fvD8gt3OU_Co3sycb5UTCg/1784290082/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
 #EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Moonbug Kids TV HD
 https://salam-spbsed-rtk-d109.rtbcdn.ru/dive/river-3-343.rtbcdn.ru/Qx9LFjabBYgBaOD4H-fbUA/stream/genetta-402.ntv.rutube.ru/O-1N1Tq7Ca1uthRLJF2pkg/1784235338/2b06a5c4c688fdc05014acb4cba83de0/1080p_stream.m3u8
 #EXTINF:-79 tvg-logo="https://img.radios.com.br/radio/lg/radio8985_1697638079.png" tvg-id="Canal1",Rede Aleluia 99.5 FM
