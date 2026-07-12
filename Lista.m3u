@@ -191,5 +191,9 @@ https://pcr.streamguys1.com/ppraise-96k.aac
 http://streaming.vinhafm.com.br/stream
 #EXTINF:-96 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/66b42cdbb718185d12002a6cc834314b.webp" tvg-id="Canal1",Igreja Plenitude HD
 https://strv.painelvox.top/plenitude/plenitude/chunklist_w862956763.m3u8
-#EXTINF:-97 tvg-logo="https://academy-ik.com/wp-content/themes/twentynineteen/assets/img/logo.svg" tvg-id="Canal1",AK RADIO HD
+#EXTINF:-97 tvg-logo="https://academy-ik.com/wp-content/themes/twentynineteen/assets/img/logo.svg" tvg-id="Canal1",AK RADIO 
 https://c4.radioboss.fm/stream/322
+#EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/dd/Detskoeradio.jpg" tvg-id="Canal1",Детское Радио
+https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8
+#EXTINF:-99 tvg-logo="https://img.radios.com.br/radio/lg/radio57736_1508786623.jpg" tvg-id="Canal1",Rai Radio Kids
+https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/radiokids_256/chunklist.m3u8
