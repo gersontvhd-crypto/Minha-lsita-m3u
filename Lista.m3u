@@ -8,15 +8,15 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w564857016.m
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" tvg-id="Canal1",CIDADE VERDE HD
 https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w502096375.m3u8
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" tvg-id="Canal1",CIDADE VERDE 5.2
-https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w742033010.m3u8
-#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Ru_tv_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" tvg-id="Canal1",RU TV HD
-https://river-6-603.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/ueLbEdPb5eRA0nVCj2VD1Q/1783811263/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/playlist.m3u8
+#EXTINF:-6 tvg-logo="https://img.radios.com.br/radio/lg/radio32447_1722586805.png" tvg-id="Canal1",Rádio Nova Geração FM HD
+https://virtues.live:8138/stream
 #EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TV_Meio_Norte_2025_logo.jpg" tvg-id="Canal1",TV Meio Norte HD
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" tvg-id="Canal1",TV A Crítica HD
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
-#EXTINF:-9 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Smile_TV_RU.png/revision/latest?cb=20241228205425" tvg-id="Canal1",Смайлик ТВ HD
-https://salam-spbsed-fil-166.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/G74SaY8MMZasYU8-xyOgfw/stream/genetta-403.ntv.rutube.ru/i5-DeD0mtWzFPcC37fc0Rw/1786144502/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-9 tvg-logo="https://img.radios.com.br/radio/lg/radio22540_1474915941.jpg" tvg-id="Canal1",Rádio Sinai Web Gospel
+https://centova4.transmissaodigital.com:20278/stream
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" tvg-id="Canal1",SBT News HD
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-11 tvg-logo="https://www.cableman.ru/sites/default/files/song_tv_logo.png" tvg-id="Canal1",SONGTV Armenia HD
@@ -35,12 +35,12 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1942540150.m3u8
 #EXTINF:-18 tvg-logo="https://img.radios.com.br/radio/lg/radio71155_1775065676.jpg" tvg-id="Canal1",92,7 FM O DIA HD
 https://stmv1.transmissaodigital.com/fmodia/fmodia/playlist.m3u8
-#EXTINF:-19 tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg" tvg-id="Canal1",Star Media HD
-https://salam-spbsed-mts-d106.rtbcdn.ru/dive/river-6-606.rtbcdn.ru/9tPA-n-bqnnNTX0Cpj7WNA/stream/genetta-406.ntv.rutube.ru/uNHkoKn1RtatRKUQxdPw4A/1786144890/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
-#EXTINF:-20 tvg-logo="https://busuioctv.md/wp-content/uploads/2021/10/log.jpg" tvg-id="Canal1",Busuioc TV HD
-https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rutube_icon.svg" tvg-id="Canal1",RUTUBE TV HD
-https://salam-spbsed-trr-7.rtbcdn.ru/dive/river-6-606.rtbcdn.ru/PCbcN_LaH6hRPkNfI8RwCA/stream/genetta-324.m9.rutube.ru/_EhNRAdmjsYH8We3r72NHQ/1786145099/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+#EXTINF:-19 tvg-logo="https://img.radios.com.br/radio/lg/radio13846_1712244731.jpg" tvg-id="Canal1",Rádio Meio Norte 99.9 FM
+https://webradio.amsolution.com.br/radio/8280/meionorte
+#EXTINF:-20 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht34nWwF6lXOaa1p_Kca6nW3F6JCGF1LV276yM79013bxlEJV2lue3oq7MpwhsbrxbKzQA3mi6Fsga12N2AqkpzQFKgb3xwivGYjp_36iVRATCwQhZg7UTtwnQJfTTu77B6dcJn_yibSMI/s1600/logo_tv.jpg" tvg-id="Canal1",TV Assembleia do Piauí HD
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-21 tvg-logo="https://img.radios.com.br/radio/lg/radio42685_1744342885.jpg" tvg-id="Canal1",Rádio Cocais 89.5 FM
+https://webradio.amsolution.com.br/radio/8230/cocais
 #EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" tvg-id="Canal1",Rede Brasil HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Moldova_1_2025.svg" tvg-id="Canal1",Moldova 1 HD
@@ -49,7 +49,7 @@ https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbef
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Moldova_2_logo_%282022%29.svg" tvg-id="Canal1",Moldova 2 HD
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
-#EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" tvg-id="Canal1",TV Mundial HD
+#EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" tvg-id="Canal1",TV Munidal HD
 https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1661561836_b2691072.m3u8
 #EXTINF:-27 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/52877942_2049257495122303_3488304985349816320_o.png/revision/latest?cb=20250806195952" tvg-id="Canal1",Tbc HD
 https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
@@ -59,11 +59,11 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Radio_Moldova_Comrat_2025.svg/revision/latest?cb=20250702151144" tvg-id="Canal1",Radio Moldova Comrat HD
 https://radiolive.trm.md/hls_comrat/comrat.m3u8
-#EXTINF:-31 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg" tvg-id="Canal1",1 TV  HD
-https://salam-spbsed-sknt-d144.rtbcdn.ru/dive/river-6-606.rtbcdn.ru/Wno4b3rw24TQhllR762IIA/stream/genetta-319.m9.rutube.ru/ilyL1hMMGS6gPl-PzW95pg/1786145377/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-31 tvg-logo="https://img.radios.com.br/radio/lg/radio224183_1757923949.jpg" tvg-id="Canal1",Rádio Evangélica Nordestina
+http://stm25.xcast.com.br:10092/stream
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" tvg-id="Canal1",Jovem Pan News HD
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo Tempo HD
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo TEMPO HD
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" tvg-id="Canal1",TVCI HD
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
@@ -71,7 +71,7 @@ https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 #EXTINF:-36 tvg-logo="https://moldova.mom-gmr.org/downloads/Archive/2024/CompanyLogos/MDA/4280.png" tvg-id="Canal1",TVR Moldova HD
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist_b3096000.m3u8
-#EXTINF:-37 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" tvg-id="Canal1",Rádio Clube Fm DF HD
+#EXTINF:-37 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" tvg-id="Canal1",Rádio Clube Fm 105,5 HD
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" tvg-id="Canal1",Rede Família HD
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1865004483.m3u8
@@ -79,10 +79,10 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1865004483.m3u8
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-40 tvg-logo="https://static-media.streema.com/media/cache/c0/02/c00263764e8ceb83e7e7dc6805a1658c.jpg" tvg-id="Canal1",Gospel FM HD
 https://virtues.live:1936/gospel90/gospel90/playlist.m3u8
-#EXTINF:-41 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-2-logo-png_seeklogo-496453.png" tvg-id="Canal1",TVR Folclor HD
-https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-#EXTINF:-42 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-cultural-logo-png_seeklogo-496456.png" tvg-id="Canal1",TVR Cultural HD
-https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-41 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-2-logo-png_seeklogo-496453.png" tvg-id="Canal1",TVR 2 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b3628000.m3u8
+#EXTINF:-42 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TVR_3_Logo_2022.svg" tvg-id="Canal1",TVR 3 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b2096000.m3u8
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" tvg-id="Canal1",TV Feliz HD
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w923438715.m3u8
 #EXTINF:-44 tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvr-info-logo-png_seeklogo-496458.png" tvg-id="Canal1",TVR Info HD
@@ -115,14 +115,14 @@ https://cpbr.appflux.com.br:2000/hls/maranatalive1/720p.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" tvg-id="Canal1",REDEVIDA HD
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-59 tvg-logo="https://ramnet.ru/tv/logo/000000073.png" tvg-id="Canal1",МУЗ-ТВ HD
-https://river-6-604.rtbcdn.ru/stream/genetta-405.ntv.rutube.ru/9ovlqP1Utp309ToYTntMZA/1784027534/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+#EXTINF:-59 tvg-logo="https://img.radios.com.br/radio/lg/radio13848_1775781439.png" tvg-id="Canal1",Rádio Melodia 97.5 FM
+https://24383.live.streamtheworld.com/MELODIAFMAAC.aac?dist=RadiosNet
 #EXTINF:-60 tvg-logo="https://media.gazetadopovo.com.br/2019/05/14130748/tv-parana-turismo-952x540.jpg" tvg-id="Canal1",TV Paraná Turismo HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-61 tvg-logo="https://radiou.com/wp-content/uploads/2025/08/RadioULogo260.png" tvg-id="Canal1",RadioU TV HD
 https://1840571692.rsc.cdn77.org/1840571692/index.m3u8
-#EXTINF:-62 tvg-logo="https://federal.tv/i/tnt.png?v=01112021111" tvg-id="Canal1",THT HD
-https://river-6-605.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/GGLDpLidJWX766rKELyM0A/1784027465/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-62 tvg-logo="https://img.radios.com.br/radio/lg/radio14811_1549034057.jpg" tvg-id="Canal1",Rádio Vida FM Gospel 104.9
+https://hts05.brascast.com:9294/stream
 #EXTINF:-63 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b87587ffa5b74f489ceef82353ebddf0.webp" tvg-id="Canal1",RBA TV HD
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1402572254.m3u8
 #EXTINF:-64 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" tvg-id="Canal1",Band HD
@@ -152,29 +152,29 @@ https://streaming.fox.srv.br:8140/stream
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" tvg-id="Canal1",TV Templo HD
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45ADz9dtxrZ3lMOTJX3yWUje_NFsKkXEy4nlkV44NPg&s=10" tvg-id="Canal1",Беларусь 1 HD
-https://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/fvD8gt3OU_Co3sycb5UTCg/1784290082/da760ca73396be9f7bc1589dba81036b/1080p_stream.m3u8
-#EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Moonbug Kids TV HD
-https://salam-spbsed-rtk-d109.rtbcdn.ru/dive/river-3-343.rtbcdn.ru/Qx9LFjabBYgBaOD4H-fbUA/stream/genetta-402.ntv.rutube.ru/O-1N1Tq7Ca1uthRLJF2pkg/1784235338/2b06a5c4c688fdc05014acb4cba83de0/1080p_stream.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
+#EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Первый HD
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w52251134_b5160000_sleng.m3u8
 #EXTINF:-79 tvg-logo="https://img.radios.com.br/radio/lg/radio8985_1697638079.png" tvg-id="Canal1",Rede Aleluia 99.5 FM
 https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
-#EXTINF:-80 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNRDrjRDKEJdaypnmg-uVj5CwXqGj1zCFtv36pp669w&s=10" tvg-id="Canal1",МАТЧ ТВ HD
-https://salam-spbsed-dix-d15.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/fNd5Ys5CaVEO3Z_WXfvPkA/stream/genetta-414.ntv.rutube.ru/z2_u7GpT5Dqh4IqXr2_BCg/1784164901/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-80 tvg-logo="https://img.radios.com.br/radio/lg/radio15637_1643399548.png" tvg-id="Canal1",Rede Tudo de Bom
+http://stm21.painelcast.com:6856
 #EXTINF:-81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwYPQv6Q4mzrOJNDXSR3--ckn1llSYQxdVLiAUgs5sw&s=10" tvg-id="Canal1",Беларусь 2 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/playlist.m3u8
 #EXTINF:-82 tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Music Network HD
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-83 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgulg0KHfzpg10HqTh7o8PU-gJXhtvmRqH8b-T4PDmQ&s" tvg-id="Canal1",1001 Noites Joias HD
-https://cpbr.appflux.com.br:2000/hls/1001noiteslive/720p.m3u8
+#EXTINF:-83 tvg-logo="https://img.radios.com.br/radio/lg/radio198548_1649442873.jpeg" tvg-id="Canal1",Rádio Super Gospel Vale
+https://server29.srvsh.com.br:6896/stream
 #EXTINF:-84 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx22BDSbyGT-FosEd242xOR4UQqHsXbvAdydGxR0DLA&s=10" tvg-id="Canal1",Беларусь 3 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
-#EXTINF:-85 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKJhEZWgELWrZExQpXeg5CDYoJaKhNmm0g1pT-JGXyg&s=10" tvg-id="Canal1",Telemundo HD
-https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-3-387.rtbcdn.ru/Ge6xOgFWJpzWfGo27cZZeQ/stream/genetta-408.ntv.rutube.ru/2YNlb_NPBi5EnibyG5XaTA/1784164548/d080f8ee5c63ea2ba83bd6d2969d1e84/1080p_stream.m3u8
+#EXTINF:-85 tvg-logo="https://img.radios.com.br/radio/lg/radio97_1719930469.png" tvg-id="Canal1",Rádio 92.3 FM
+https://centova.svdns.com.br:20024/stream
 #EXTINF:-86 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Rádio Novo Tempo
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
 #EXTINF:-87 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZo9KZZWD8i4px86yJzYwp7_tq9f2KwCYnF3qEGd-jcA&s" tvg-id="Canal1",Fonte FM
 https://centova2.svdns.com.br:20082/stream
-#EXTINF:-88 tvg-logo="https://pic.rtbcdn.ru/user/2025-09-02/7a/0f/7a0f29caa17230362b67f520f81a44a8.jpg" tvg-id="Canal1",ИЛЛИ ТВ HD
-https://river-3-3115.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/oQsLxFPGAWqwli1tp4UZKw/1784238077/eda2da42eea89951e4135141a30915f7/576p_stream.m3u8
+#EXTINF:-88 tvg-logo="https://img.radios.com.br/radio/lg/radio24054_1771412587.png" tvg-id="Canal1",Rádio Girassol BH 87.9 FM
+https://stm28.xcast.com.br:6800/stream
 #EXTINF:-89 tvg-logo="https://img.radios.com.br/radio/lg/radio18261_1439401525.jpg" tvg-id="Canal1",Rádio Paz 89.5 FM HD
 http://digital.umhost.com.br:9978/stream
 #EXTINF:-90 tvg-logo="https://img.radios.com.br/radio/lg/radio30739_1776104321.jpg" tvg-id="Canal1",Rádio Novo Dia 94.1 FM HD
@@ -197,3 +197,7 @@ https://c4.radioboss.fm/stream/322
 https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8
 #EXTINF:-99 tvg-logo="https://img.radios.com.br/radio/lg/radio57736_1508786623.jpg" tvg-id="Canal1",Rai Radio Kids
 https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/radiokids_256/chunklist.m3u8
+#EXTINF:-100 tvg-logo="https://plusfm.com.br/static/media/plus-1.de1842175d3ef90d3d9e.png" tvg-id="Canal1",Plus FM Fortaleza
+https://webradio.amsolution.com.br/radio/8020/plus
+#EXTINF:-101 tvg-logo="https://plusfm.com.br/static/media/plus-1.de1842175d3ef90d3d9e.png" tvg-id="Canal1",Plus FM Sobral
+https://webradio.amsolution.com.br/radio/8030/sobral
