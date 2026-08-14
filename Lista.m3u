@@ -137,11 +137,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-69 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/de/Logotipo_de_2023_da_TV_Antena_10.png" tvg-id="Canal1",TV Antena 10 HD
 https://srt01.logicahost.com.br/a10mais/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKrxzMzcH6Hon4v96zuzISeE-KK79JOuvJ9iZl2nVsA&s" tvg-id="Canal1",Tv Assembleia Piauí HD
+#EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKrxzMzcH6Hon4v96zuzISeE-KK79JOuvJ9iZl2nVsA&s" tvg-id="Canal1",TV Assembleia Piauí HD
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
-#EXTINF:-71 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/960px-TV_Brasil_logo_2019.svg.png" tvg-id="Canal1",Tv Brasil
+#EXTINF:-71 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/960px-TV_Brasil_logo_2019.svg.png" tvg-id="Canal1",TV Brasil
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
-#EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/960px-TV_Brasil_logo_2019.svg.png" tvg-id="Canal1",Tv Brasil HD
+#EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/960px-TV_Brasil_logo_2019.svg.png" tvg-id="Canal1",TV Brasil HD
 https://streaming.procergs.com.br:8443/tve/stve/chunklist_w655535124.m3u8
 #EXTINF:-73 tvg-logo="https://img.radios.com.br/radio/lg/radio255847_1757077264.jpeg" tvg-id="Canal1",Nossa Rádio Teresina HD
 https://8477.brasilstream.com.br/stream
