@@ -157,8 +157,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w52251134_b5160000_sleng.m3u8
 #EXTINF:-79 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-yUHRjmVfgCUXr9S407EF-PH1oHXwjRquPtq3gwBTw&s=10" tvg-id="Canal1",Hit FM HD
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
-#EXTINF:-80 tvg-logo="https://img.radios.com.br/radio/lg/radio15637_1643399548.png" tvg-id="Canal1",Rede Tudo de Bom
-http://stm21.painelcast.com:6856
+#EXTINF:-80 tvg-logo="https://moldovatv.ro/wp-content/uploads/2021/09/ID-MOLDOVA-TV-2.png" tvg-id="Canal1",MOLDOVA TV HD
+https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwYPQv6Q4mzrOJNDXSR3--ckn1llSYQxdVLiAUgs5sw&s=10" tvg-id="Canal1",Беларусь 2 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/playlist.m3u8
 #EXTINF:-82 tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Music Network HD
