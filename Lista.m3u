@@ -153,7 +153,7 @@ https://streaming.fox.srv.br:8140/stream
 https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45ADz9dtxrZ3lMOTJX3yWUje_NFsKkXEy4nlkV44NPg&s=10" tvg-id="Canal1",Беларусь 1 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
-#EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Первый HD
+#EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQnqIEhEYCEMoyS3_x8fMbenbgqhlJz_5vN3s84zfaw&s=10" tvg-id="Canal1",Первый HD
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w52251134_b5160000_sleng.m3u8
 #EXTINF:-79 tvg-logo="https://img.radios.com.br/radio/lg/radio8985_1697638079.png" tvg-id="Canal1",Rede Aleluia 99.5 FM
 https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
