@@ -177,7 +177,7 @@ https://centova2.svdns.com.br:20082/stream
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
 #EXTINF:-89 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrohsv_QV2mF1kk3neUH_tuPc03mMBgZfbjxUDeFIjYA&s=10" tvg-id="Canal1",Sor TV Moldova HD
 http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-90 tvg-logo="https://img.radios.com.br/radio/lg/radio30739_1776104321.jpg" tvg-id="Canal1",Rádio Novo Dia 94.1 FM HD
+#EXTINF:-90 tvg-logo="https://img.radios.com.br/radio/lg/radio30739_1776104321.jpg" tvg-id="Canal1",Rádio Novo Dia 94.1 FM
 https://paineldj6.com.br:20054/stream
 #EXTINF:-91 tvg-logo="https://img.radios.com.br/radio/lg/radio33080_1686140705.jpeg" tvg-id="Canal1",Nossa Rádio SP HD
 https://8458.brasilstream.com.br/stream
