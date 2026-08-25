@@ -115,8 +115,8 @@ https://cpbr.appflux.com.br:2000/hls/maranatalive1/720p.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" tvg-id="Canal1",REDEVIDA HD
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-59 tvg-logo="https://img.radios.com.br/radio/lg/radio13848_1775781439.png" tvg-id="Canal1",Rádio Melodia 97.5 FM
-https://24383.live.streamtheworld.com/MELODIAFMAAC.aac?dist=RadiosNet
+#EXTINF:-59 tvg-logo="https://moldova.mom-gmr.org/downloads/Archive/2024/MediaOutletLogos/MDA/4217.png" tvg-id="Canal1",Rlive TV HD
+https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-60 tvg-logo="https://media.gazetadopovo.com.br/2019/05/14130748/tv-parana-turismo-952x540.jpg" tvg-id="Canal1",TV Paraná Turismo HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-61 tvg-logo="https://radiou.com/wp-content/uploads/2025/08/RadioULogo260.png" tvg-id="Canal1",RadioU TV HD
