@@ -179,7 +179,7 @@ https://radiolive.trm.md/hls_rma/actualitati.m3u8
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-90 tvg-logo="https://img.radios.com.br/radio/lg/radio30739_1776104321.jpg" tvg-id="Canal1",Rádio Novo Dia 94.1 FM
 https://paineldj6.com.br:20054/stream
-#EXTINF:-91 tvg-logo="https://img.radios.com.br/radio/lg/radio33080_1686140705.jpeg" tvg-id="Canal1",Nossa Rádio SP HD
+#EXTINF:-91 tvg-logo="https://img.radios.com.br/radio/lg/radio33080_1686140705.jpeg" tvg-id="Canal1",Nossa Rádio SP
 https://8458.brasilstream.com.br/stream
 #EXTINF:-92 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQox4m3wBP3QuDzDX4zXqMV-ptgLiF9Ho15OeNsPc-Y9g&s=10" tvg-id="Canal1",Porto Alegre 24H TV HD
 https://rtisoluctions.com.br/hls/test_src.m3u8
