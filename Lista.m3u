@@ -197,5 +197,5 @@ https://c4.radioboss.fm/stream/322
 https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8
 #EXTINF:-99 tvg-logo="https://img.radios.com.br/radio/lg/radio57736_1508786623.jpg" tvg-id="Canal1",Rai Radio Kids
 https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/radiokids_256/chunklist.m3u8
-#EXTINF:-100 tvg-logo="https://static.tildacdn.net/tild3565-3263-4665-b532-393930356339/_radio_leti.svg" tvg-id="Canal1",Радио Лети со мной
-https://listen8.myradio24.com/letiradio
+#EXTINF:-100 tvg-logo="https://assets.protv.md/articles/images/original/2025/09/18/Logositeprotvmare1-1758187928f3a609a1-3863-4cc3-a722-ce601dd99414.png" tvg-id="Canal1",PRO TV Chișinău HD
+https://stream.protv.md/live/sursa-1/index.m3u8
