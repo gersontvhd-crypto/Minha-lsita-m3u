@@ -167,8 +167,8 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://tvboom.ro/live-tv/liveboomtv.m3u8
 #EXTINF:-84 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx22BDSbyGT-FosEd242xOR4UQqHsXbvAdydGxR0DLA&s=10" tvg-id="Canal1",Беларусь 3 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
-#EXTINF:-85 tvg-logo="https://img.radios.com.br/radio/lg/radio97_1719930469.png" tvg-id="Canal1",Rádio 92.3 FM
-https://centova.svdns.com.br:20024/stream
+#EXTINF:-85 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexZw04q1JKp8s1KlGA48ycKavWJDU1SOMIXXH9i0d3g&s=10" tvg-id="Canal1",Radio Chișinău Moldova HD
+https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-86 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Rádio Novo Tempo
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
 #EXTINF:-87 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZo9KZZWD8i4px86yJzYwp7_tq9f2KwCYnF3qEGd-jcA&s" tvg-id="Canal1",Fonte FM
