@@ -143,7 +143,7 @@ https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 #EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/960px-TV_Brasil_logo_2019.svg.png" tvg-id="Canal1",TV Brasil HD
 https://streaming.procergs.com.br:8443/tve/stve/chunklist_w655535124.m3u8
-#EXTINF:-73 tvg-logo="https://img.radios.com.br/radio/lg/radio255847_1757077264.jpeg" tvg-id="Canal1",Nossa Rádio Teresina HD
+#EXTINF:-73 tvg-logo="https://img.radios.com.br/radio/lg/radio255847_1757077264.jpeg" tvg-id="Canal1",Nossa Rádio Teresina
 https://8477.brasilstream.com.br/stream
 #EXTINF:-74 tvg-id="3ABNKids" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Kids Network HD
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
