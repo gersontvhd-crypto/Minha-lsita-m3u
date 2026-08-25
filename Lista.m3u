@@ -187,8 +187,8 @@ https://rtisoluctions.com.br/hls/test_src.m3u8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-94 tvg-logo="https://img.radios.com.br/radio/lg/radio233030_1700858364.jpg" tvg-id="Canal1",Premier Praise
 https://pcr.streamguys1.com/ppraise-96k.aac
-#EXTINF:-95 tvg-logo="https://img.radios.com.br/radio/lg/radio14828_1731346643.jpg" tvg-id="Canal1",Rádio Vinha 91.9 FM
-http://streaming.vinhafm.com.br/stream
+#EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP89OOUTE4QsEv-FgNkF-QcrH6JbyYciYLOh7Fw09UQg&s=10" tvg-id="Canal1",Digi24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-96 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/66b42cdbb718185d12002a6cc834314b.webp" tvg-id="Canal1",Igreja Plenitude HD
 https://strv.painelvox.top/plenitude/plenitude/chunklist_w862956763.m3u8
 #EXTINF:-97 tvg-logo="https://academy-ik.com/wp-content/themes/twentynineteen/assets/img/logo.svg" tvg-id="Canal1",AK RADIO 
