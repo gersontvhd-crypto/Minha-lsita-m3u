@@ -121,7 +121,7 @@ https://realitatealive.md/tv/rlive.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-61 tvg-logo="https://radiou.com/wp-content/uploads/2025/08/RadioULogo260.png" tvg-id="Canal1",RadioU TV HD
 https://1840571692.rsc.cdn77.org/1840571692/index.m3u8
-#EXTINF:-62 tvg-logo="https://tsv.md/wp-content/uploads/2025/05/cropped-logo-tsv-1.webp" tvg-id="Canal1",TSV HD
+#EXTINF:-62 tvg-logo="https://tsv.md/wp-content/uploads/2025/05/cropped-logo-tsv-1.webp" tvg-id="Canal1",TCB HD
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-63 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b87587ffa5b74f489ceef82353ebddf0.webp" tvg-id="Canal1",RBA TV HD
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1402572254.m3u8
