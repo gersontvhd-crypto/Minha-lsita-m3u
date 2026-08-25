@@ -39,8 +39,8 @@ https://stmv1.transmissaodigital.com/fmodia/fmodia/playlist.m3u8
 https://webradio.amsolution.com.br/radio/8280/meionorte
 #EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzm9fjHHqJxr8Lah-e3pd3D3l_VZXT7xFgD9T6094ddg&s=10" tvg-id="Canal1",busuioc tv HD
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-21 tvg-logo="https://img.radios.com.br/radio/lg/radio42685_1744342885.jpg" tvg-id="Canal1",Rádio Cocais 89.5 FM
-https://webradio.amsolution.com.br/radio/8230/cocais
+#EXTINF:-21 tvg-logo="https://lupa1.com.br/assets/image/brand-lupa-small.svg" tvg-id="Canal1",Lupa 1 FM HD
+https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w912402959.m3u8
 #EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" tvg-id="Canal1",Rede Brasil HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Moldova_1_2025.svg" tvg-id="Canal1",Moldova 1 HD
