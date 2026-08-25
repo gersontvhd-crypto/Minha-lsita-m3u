@@ -163,8 +163,8 @@ https://moldovatv.ro/live-tv/live.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/playlist.m3u8
 #EXTINF:-82 tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" tvg-id="Canal1",3ABN Music Network HD
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-83 tvg-logo="https://img.radios.com.br/radio/lg/radio198548_1649442873.jpeg" tvg-id="Canal1",Rádio Super Gospel Vale
-https://server29.srvsh.com.br:6896/stream
+#EXTINF:-83 tvg-logo="https://tvboom.ro/wp-content/uploads/2025/07/BOOM-TV-600X600-1.png" tvg-id="Canal1",BOOM TV Moldova HD
+https://tvboom.ro/live-tv/liveboomtv.m3u8
 #EXTINF:-84 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx22BDSbyGT-FosEd242xOR4UQqHsXbvAdydGxR0DLA&s=10" tvg-id="Canal1",Беларусь 3 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
 #EXTINF:-85 tvg-logo="https://img.radios.com.br/radio/lg/radio97_1719930469.png" tvg-id="Canal1",Rádio 92.3 FM
