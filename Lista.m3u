@@ -199,3 +199,5 @@ https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8
 https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/radiokids_256/chunklist.m3u8
 #EXTINF:-100 tvg-logo="https://assets.protv.md/articles/images/original/2025/09/18/Logositeprotvmare1-1758187928f3a609a1-3863-4cc3-a722-ce601dd99414.png" tvg-id="Canal1",PRO TV Chișinău HD
 https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-101 tvg-logo="https://portalbsd.com.br/images/tv/tvc_fortaleza.png" tvg-id="Canal1",TV Capital Fortaleza HD
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
