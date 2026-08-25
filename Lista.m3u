@@ -59,8 +59,8 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Radio_Moldova_Comrat_2025.svg/revision/latest?cb=20250702151144" tvg-id="Canal1",Radio Moldova Comrat HD
 https://radiolive.trm.md/hls_comrat/comrat.m3u8
-#EXTINF:-31 tvg-logo="https://img.radios.com.br/radio/lg/radio224183_1757923949.jpg" tvg-id="Canal1",Rádio Evangélica Nordestina
-http://stm25.xcast.com.br:10092/stream
+#EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibVmPzesVZpgLlyilILnxA5VeSZZcWR29sEH7OT8RUw&s=10" tvg-id="Canal1",Noroc TV HD
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" tvg-id="Canal1",Jovem Pan News HD
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo TEMPO HD
