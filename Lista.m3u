@@ -132,9 +132,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Karusel_2019.svg" tvg-id="Canal1",Карусель HD
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-67 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Rossiya-1_Logo.svg" tvg-id="Canal1",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-68 tvg-logo="https://pic.rtbcdn.ru/user/2025-02-24/92/f4/92f4d552d5bba89a37690873515d4211.jpg" tvg-id="Canal1",Россия Культура HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-69 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/de/Logotipo_de_2023_da_TV_Antena_10.png" tvg-id="Canal1",TV Antena 10 HD
 https://srt01.logicahost.com.br/a10mais/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKrxzMzcH6Hon4v96zuzISeE-KK79JOuvJ9iZl2nVsA&s" tvg-id="Canal1",TV Assembleia Piauí HD
