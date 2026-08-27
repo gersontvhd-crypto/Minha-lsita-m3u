@@ -183,8 +183,8 @@ https://paineldj6.com.br:20054/stream
 https://8458.brasilstream.com.br/stream
 #EXTINF:-92 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQox4m3wBP3QuDzDX4zXqMV-ptgLiF9Ho15OeNsPc-Y9g&s=10" tvg-id="Canal1",Porto Alegre 24H TV HD
 https://rtisoluctions.com.br/hls/test_src.m3u8
-#EXTINF:-93 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LgW5wNZZphNiYtuvaTVYVxJf3mCemQN6p8xM4ihcEg&s" tvg-id="Canal1",TV8 Moldova HD
-https://live4.cdn.tv8.md/TV7/tracks-v1a1/mono.ts.m3u8?token=11974354446525bf7c5b17c4baa3a71c5fba05ae
+#EXTINF:-93 tvg-logo="https://alfaomega.tv/images/aotv_logo_svg.svg" tvg-id="Canal1",Alfa Omega TV HD
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-94 tvg-logo="https://img.radios.com.br/radio/lg/radio233030_1700858364.jpg" tvg-id="Canal1",Premier Praise
 https://pcr.streamguys1.com/ppraise-96k.aac
 #EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP89OOUTE4QsEv-FgNkF-QcrH6JbyYciYLOh7Fw09UQg&s=10" tvg-id="Canal1",Digi24 HD
