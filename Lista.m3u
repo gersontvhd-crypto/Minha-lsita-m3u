@@ -203,3 +203,5 @@ https://stream.protv.md/live/sursa-1/index.m3u8
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 #EXTINF:-102 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7eMHymZgRrIg7MUr63quAA6Q168FvM3VglAt93t9gLw&s=10" tvg-id="Canal1",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-103 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9dEovyqIE92dSPEN2f125EBWBDbLybmhkLE3_JerbQ&s=10" tvg-id="Canal1",TV Thathi HD
+https://tv02.zas.media:1936/thathi/thathi/chunklist_w1929555412.m3u8
