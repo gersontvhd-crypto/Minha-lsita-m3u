@@ -205,3 +205,5 @@ https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamo
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-103 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9dEovyqIE92dSPEN2f125EBWBDbLybmhkLE3_JerbQ&s=10" tvg-id="Canal1",TV Thathi HD
 https://tv02.zas.media:1936/thathi/thathi/chunklist_w1929555412.m3u8
+#EXTINF:-104 tvg-logo="https://www.credo.tv/wp-content/uploads/2019/07/logo-2.png" tvg-id="Canal1",Credo.tv HD
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/chunklist_w2084378894.m3u8
