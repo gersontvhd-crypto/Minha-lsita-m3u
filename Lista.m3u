@@ -212,7 +212,7 @@ https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabilioj
 #EXTINF:-106 tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo__1_dgAHMbd.png" tvg-id="Canal1",TV Marataizes HD
 https://cdn-origin.smartplay.pe/tv-marataizes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-107 tvg-logo="https://rutvkids.ru/brand/logo-kids.png" tvg-id="Canal1",RUTV Kids HD
-https://rutvkids.ru/live/efir_480/main_stream.m3u8
+https://rutvkids.ru/live/efir/master.m3u8
 #EXTINF:-108 tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_rmdkYDj.png" tvg-id="Canal1",TV Life America HD
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-109 tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido_KS26nvG.png" tvg-id="Canal1",Canal do Boi HD
