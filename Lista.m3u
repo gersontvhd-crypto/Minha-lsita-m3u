@@ -199,8 +199,8 @@ https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8
 https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-100 tvg-logo="https://assets.protv.md/articles/images/original/2025/09/18/Logositeprotvmare1-1758187928f3a609a1-3863-4cc3-a722-ce601dd99414.png" tvg-id="Canal1",PRO TV Chișinău HD
 https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-101 tvg-logo="https://portalbsd.com.br/images/tv/tvc_fortaleza.png" tvg-id="Canal1",TV Capital Fortaleza HD
-https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+#EXTINF:-101 tvg-logo="https://portalbsd.com.br/images/tv/tvc_fortaleza.png" tvg-id="Canal1",TVP 1 HD
+https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8
 #EXTINF:-102 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7eMHymZgRrIg7MUr63quAA6Q168FvM3VglAt93t9gLw&s=10" tvg-id="Canal1",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-103 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9dEovyqIE92dSPEN2f125EBWBDbLybmhkLE3_JerbQ&s=10" tvg-id="Canal1",TV Thathi HD
