@@ -63,7 +63,7 @@ https://radiolive.trm.md/hls_comrat/comrat.m3u8
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" tvg-id="Canal1",Jovem Pan News HD
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",Novo TEMPO HD
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" tvg-id="Canal1",NOVO TEMPO HD
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" tvg-id="Canal1",TVCI HD
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
@@ -173,7 +173,7 @@ https://radiochisinau.md/hls/RChisinau.m3u8
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
 #EXTINF:-87 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZo9KZZWD8i4px86yJzYwp7_tq9f2KwCYnF3qEGd-jcA&s" tvg-id="Canal1",Fonte FM
 https://centova2.svdns.com.br:20082/stream
-#EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNR9-aNNQd4lB4nGcg7hzc0g_Y8OaO1XdCl0NB-2RI2A&s" tvg-id="Canal1",RadioMoldova HD
+#EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNR9-aNNQd4lB4nGcg7hzc0g_Y8OaO1XdCl0NB-2RI2A&s" tvg-id="Canal1",Radio Moldova HD
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
 #EXTINF:-89 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrohsv_QV2mF1kk3neUH_tuPc03mMBgZfbjxUDeFIjYA&s=10" tvg-id="Canal1",Sor TV Moldova HD
 http://188.237.212.16:8888/live/cameraFeed.m3u8
